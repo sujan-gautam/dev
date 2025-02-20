@@ -1,0 +1,90 @@
+[01-Mar-2024 19:49:02 Asia/Karachi] PHP Warning:  Undefined variable $conn in /home/sujancom/backend.sujan1919.com.np/public/test/public/admin/index.php on line 40
+[01-Mar-2024 19:49:02 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sujancom/backend.sujan1919.com.np/public/test/public/admin/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/sujancom/backend.sujan1919.com.np/public/test/public/admin/index.php on line 40
+[01-Mar-2024 19:56:25 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php:46
+Stack trace:
+#0 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(46): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php on line 46
+[01-Mar-2024 19:56:44 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php:104
+Stack trace:
+#0 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(104): PDOStatement->execute()
+#1 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(56): handleMusicTextImageFormSubmission()
+#2 {main}
+  thrown in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php on line 104
+[01-Mar-2024 19:57:09 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php:104
+Stack trace:
+#0 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(104): PDOStatement->execute()
+#1 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(56): handleMusicTextImageFormSubmission()
+#2 {main}
+  thrown in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php on line 104
+[01-Mar-2024 19:58:07 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php:104
+Stack trace:
+#0 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(104): PDOStatement->execute()
+#1 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(56): handleMusicTextImageFormSubmission()
+#2 {main}
+  thrown in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php on line 104
+[01-Mar-2024 19:58:16 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php:104
+Stack trace:
+#0 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(104): PDOStatement->execute()
+#1 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(56): handleMusicTextImageFormSubmission()
+#2 {main}
+  thrown in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php on line 104
+[01-Mar-2024 19:59:14 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php:107
+Stack trace:
+#0 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(107): PDOStatement->execute()
+#1 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(59): handleMusicTextImageFormSubmission()
+#2 {main}
+  thrown in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php on line 107
+[01-Mar-2024 20:09:18 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php:107
+Stack trace:
+#0 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(107): PDOStatement->execute()
+#1 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(59): handleMusicTextImageFormSubmission()
+#2 {main}
+  thrown in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php on line 107
+[01-Mar-2024 20:10:16 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php:107
+Stack trace:
+#0 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(107): PDOStatement->execute()
+#1 /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php(59): handleMusicTextImageFormSubmission()
+#2 {main}
+  thrown in /home/sujancom/funtest.sujan1919.com.np/public/admin/add-story.php on line 107
+[02-Mar-2024 08:41:07 Asia/Karachi] PHP Warning:  move_uploaded_file(../storage/logo/logo-file-1709350867.png): Failed to open stream: Permission denied in /home/sujancom/dev.sujan1919.com.np/public/admin/settings.php on line 55
+[02-Mar-2024 08:41:07 Asia/Karachi] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpXGHzcu&quot; to &quot;../storage/logo/logo-file-1709350867.png&quot; in /home/sujancom/dev.sujan1919.com.np/public/admin/settings.php on line 55
+[02-Mar-2024 08:41:07 Asia/Karachi] PHP Warning:  unlink(../storage/logo/logo-file-1649334923.png): No such file or directory in /home/sujancom/dev.sujan1919.com.np/public/admin/settings.php on line 56
+[29-Jun-2024 15:14:21 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sujancom_dev2.users.user_date_created' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php:119
+Stack trace:
+#0 /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php(119): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php on line 119
+[06-Jul-2024 07:33:46 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sujancom_dev2.users.user_date_created' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php:119
+Stack trace:
+#0 /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php(119): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php on line 119
+[07-Aug-2024 09:51:39 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sujancom_dev2.users.user_date_created' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php:119
+Stack trace:
+#0 /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php(119): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php on line 119
+[07-Nov-2024 14:52:37 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sujancom_dev2.users.user_date_created' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php:119
+Stack trace:
+#0 /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php(119): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php on line 119
+[13-Nov-2024 18:42:43 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'sujancom_dev2.users.user_date_created' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php:119
+Stack trace:
+#0 /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php(119): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sujancom/dev.sujan1919.com.np/public/admin/dashboard.php on line 119
+[06-Feb-2025 06:58:30 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sujancom_dev.site_settings' doesn't exist in /home/sujancom/dev.sujan1919.com.np/public/admin/index.php:41
+Stack trace:
+#0 /home/sujancom/dev.sujan1919.com.np/public/admin/index.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sujancom/dev.sujan1919.com.np/public/admin/index.php on line 41
+[13-Feb-2025 23:08:34 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sujancom_dev.site_settings' doesn't exist in /home/sujancom/dev.sujan1919.com.np/public/admin/index.php:41
+Stack trace:
+#0 /home/sujancom/dev.sujan1919.com.np/public/admin/index.php(41): PDOStatement->execute()
+#1 {main}
+  thrown in /home/sujancom/dev.sujan1919.com.np/public/admin/index.php on line 41
